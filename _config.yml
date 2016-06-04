@@ -1,7 +1,7 @@
 name: Oikos
 favicon: null
-layout_spectrum: 0.03178836521692574
-typography_spectrum: 0.2853238268289715
+layout_spectrum: 0.25685
+typography_spectrum: 0.01251
 cta:
   domain: null
   bucket: null
