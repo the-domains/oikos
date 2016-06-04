@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -22,16 +22,16 @@ description: >-
   certain homes called puloʻuloʻu indicated places of aliʻi (nobility caste).
   Kiʻi enclosed within basalt walls indicated the homes of kahuna (priestly
   caste).
-datePublished: '2016-06-04T18:08:53.702Z'
-dateModified: '2016-06-04T18:08:40.694Z'
+datePublished: '2016-06-04T18:13:34.685Z'
+dateModified: '2016-06-04T18:12:48.288Z'
 title: Antiquity
 author:
   - name: ''
     url: 'https://en.wikipedia.org/wiki/Hawaiian_architecture'
+sourcePath: _posts/2016-06-04-antiquity.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-04-antiquity.md
 url: antiquity/index.html
 _type: Article
 
