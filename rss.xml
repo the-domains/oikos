@@ -4,7 +4,7 @@
         <description><![CDATA[Oikos]]></description>
         <link>https://thegrid.ai/oikos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 17:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 18:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oikos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OIKOS]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/oikos/oikos/index.html</link>
             <guid isPermaLink="false">4234fb53-d229-4ad2-bf58-9763abff3d1d</guid>
             <pubDate>Sat, 04 Jun 2016 17:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antiquity]]></title>
+            <description><![CDATA[<article><h1>Antiquity</h1><p>Within the body of Hawaiian architecture are various subsets of styles; each are considered typical of particular historical periods. The earliest form of Hawaiian architecture originates from what is called ancient Hawaiʻi—designs employed in the construction of village shelters from the simple shacks of outcasts and slaves, huts for the fishermen and canoe builders along the beachfronts, the shelters of the working class makaʻainana, the elaborate and sacred heiau of kahuna and the palatial thatched homes on raised basalt foundation of the aliʻi. The way a simple grass shack was constructed in ancient Hawaiʻi was telling of who lived in a particular home. The patterns in which dried plants and lumber were fashioned together could identify caste, skill and trade, profession and wealth. Hawaiian architecture previous to the arrival of British explorer Captain James Cook used symbolism to identify religious value of the inhabitants of certain structures. Feather standards called kahili and koa adorned with kapa cloth and crossed at the entrance of certain homes called puloʻuloʻu indicated places of aliʻi (nobility caste). Kiʻi enclosed within basalt walls indicated the homes of kahuna (priestly caste).</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a156b387-d3cb-4b6d-b955-b1c8c20be268.jpg"></article>]]></description>
+            <link>https://thegrid.ai/oikos/antiquity/index.html</link>
+            <guid isPermaLink="false">bf4525d4-2e8a-450f-9cce-7ebc27bbc43f</guid>
+            <pubDate>Sat, 04 Jun 2016 18:08:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
