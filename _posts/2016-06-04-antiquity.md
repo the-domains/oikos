@@ -22,8 +22,8 @@ description: >-
   certain homes called puloʻuloʻu indicated places of aliʻi (nobility caste).
   Kiʻi enclosed within basalt walls indicated the homes of kahuna (priestly
   caste).
-datePublished: '2016-06-06T03:07:04.260Z'
-dateModified: '2016-06-06T03:06:53.100Z'
+datePublished: '2016-06-06T03:13:48.490Z'
+dateModified: '2016-06-06T03:07:12.197Z'
 title: Antiquity
 author:
   - name: ''
